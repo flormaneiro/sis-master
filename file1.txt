@@ -1,1 +1,1 @@
-este es el primer file 1 en el master del proyecto
+conflicolocal este es el primer file 1 en el master del proyecto
